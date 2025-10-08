@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 大型数据文件
+ICESat-2_Data/
+controlpoints_out/
+controlpoints_out_副本/
+ATL08_007-*/
+raw_points_out/
+image/
+
+# 临时结果
+*.png
+*.tif
+*.jpg
+
+# 文档和缓存
+*.docx
+*.xlsx
+*.pdf
