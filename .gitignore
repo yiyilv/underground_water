@@ -13,7 +13,10 @@ controlpoints_out_副本/
 ATL08_007-*/
 raw_points_out/
 image/
-
+*.h5
+boundary_data/
+lack/
+boundary/
 # 临时结果
 *.png
 *.tif
