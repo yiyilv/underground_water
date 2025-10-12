@@ -17,6 +17,8 @@ image/
 boundary_data/
 lack/
 boundary/
+clip_points_out/
+
 # 临时结果
 *.png
 *.tif
