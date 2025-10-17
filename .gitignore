@@ -1,6 +1,7 @@
 # macOS
 .DS_Store
 
+
 # Python
 __pycache__/
 *.pyc
@@ -22,6 +23,9 @@ GF7_DLC_E120.2_N34.3_20220206_L1A0000707176/
 ICESat_csv/
 
 # 临时结果
+*.inpholock
+*.csv
+*.prj
 *.png
 *.tif
 *.jpg
